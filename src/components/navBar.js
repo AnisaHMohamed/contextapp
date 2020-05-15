@@ -14,5 +14,4 @@ class Navbar extends Component {
      );
   }
 }
- Navbar
 export default Navbar;
